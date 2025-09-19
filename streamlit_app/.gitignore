@@ -1,0 +1,7 @@
+database.db
+uploads/
+venv/
+__pycache__/
+.streamlit/
+
+
